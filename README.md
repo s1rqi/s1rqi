@@ -1,3 +1,5 @@
+( ͡° ͜ʖ ͡°)
+
 ```
 s1rqi@internet:~$ cat profile.txt 
 - 👋 | Hi, I'm @s1rqi ! 
